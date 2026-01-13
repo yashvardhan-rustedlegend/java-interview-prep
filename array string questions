@@ -1,0 +1,145 @@
+Perfect 👍
+Here are **TOP 20 Array & String DSA questions (Easy → Medium)** that are **highly interview-focused**, especially for **software / product-based companies**.
+
+---
+
+# 🔹 ARRAY QUESTIONS (10)
+
+## 🟢 Easy (Foundations)
+
+1. **Find the largest and smallest element in an array**
+
+   * Concepts: Traversal, comparison
+
+2. **Check if an array is sorted**
+
+   * Concepts: Adjacent comparison
+
+3. **Reverse an array**
+
+   * Concepts: Two pointers
+
+4. **Move all zeros to the end**
+
+   * Concepts: Two pointers, in-place
+
+5. **Find second largest element**
+
+   * Concepts: Tracking max values
+
+---
+
+## 🟡 Medium (Interview Must)
+
+6. **Two Sum**
+
+   * Concepts: HashMap, Two pointers
+
+7. **Kadane’s Algorithm (Maximum Subarray Sum)**
+
+   * Concepts: DP, prefix sum
+
+8. **Rotate array by K steps**
+
+   * Concepts: Reversal algorithm
+
+9. **Sort 0s, 1s, and 2s**
+
+   * Concepts: Dutch National Flag
+
+10. **Find missing number (1 to N)**
+
+* Concepts: Math, XOR
+
+---
+
+# 🔹 STRING QUESTIONS (10)
+
+## 🟢 Easy (Basics)
+
+11. **Reverse a string**
+
+* Concepts: Two pointers
+
+12. **Check if string is palindrome**
+
+* Concepts: Two pointers
+
+13. **Count vowels and consonants**
+
+* Concepts: Character checks
+
+14. **Find first non-repeating character**
+
+* Concepts: Frequency map
+
+15. **Check if two strings are anagrams**
+
+* Concepts: Sorting, HashMap
+
+---
+
+## 🟡 Medium (Interview Favorites)
+
+16. **Longest common prefix**
+
+* Concepts: String traversal
+
+17. **Longest substring without repeating characters**
+
+* Concepts: Sliding window, HashSet
+
+18. **Valid parentheses**
+
+* Concepts: Stack
+
+19. **String compression**
+
+* Concepts: Two pointers
+
+20. **Group anagrams**
+
+* Concepts: HashMap + sorting
+
+---
+
+# 🎯 How to Practice (Interview Strategy)
+
+For **each question**, practice:
+
+1. **Brute force approach**
+2. **Optimized approach**
+3. **Time & space complexity**
+4. **Edge cases**
+
+---
+
+# 🧠 Must-know Patterns (Interviews LOVE these)
+
+| Pattern         | Questions                            |
+| --------------- | ------------------------------------ |
+| Two pointers    | Reverse array, Palindrome, Two Sum   |
+| Hashing         | Two Sum, Anagram, Non-repeating char |
+| Sliding Window  | Longest substring                    |
+| Prefix / DP     | Kadane’s Algorithm                   |
+| Sorting + Logic | Group Anagrams                       |
+
+---
+
+# 📌 Recommended Practice Order (7-day plan)
+
+* **Day 1–2:** Easy Arrays + Strings
+* **Day 3–4:** Medium Arrays
+* **Day 5:** Medium Strings
+* **Day 6:** Revise + Code without looking
+* **Day 7:** Mock interview (explain aloud)
+
+---
+
+If you want, I can:
+
+* Give **Java solutions** for each
+* Create a **PDF interview sheet**
+* Give **company-wise questions (Amazon, Google, Flipkart)**
+
+Just tell me 👍
